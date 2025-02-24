@@ -1,7 +1,7 @@
 {
     "bert_model": "bert-base-uncased",
-    "train_data_path": "data/train.json",
-    "test_data_path": "data/test.json",
+    "train_data_path": "data/semeval2010_task8_train.csv",
+    "test_data_path": "data/semeval2010_task8_test.csv",
     "batch_size": 16,
     "learning_rate": 2e-5,
     "num_epochs": 5,
